@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # storage_app
 
 A new Flutter application.
@@ -14,3 +15,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# Storage-App
+A decent storage app UI
+>>>>>>> c209c3a998e02476650fece2f876fd9dd54541e6
